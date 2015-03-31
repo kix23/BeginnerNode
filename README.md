@@ -1,6 +1,7 @@
 # Just a little NodeExpress for Docker
 To build the Docker image with this Dockerfile use:
 docker build -t yourname/yourimagename
+
 OR use this Image: https://registry.hub.docker.com/u/kix23/beginnernode/
 
 To start th Express Web Server use:
